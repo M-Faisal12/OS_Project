@@ -1,0 +1,8 @@
+Electronics revenue : 1800
+Clothing revenue : 585
+Groceries revenue : 255
+Furniture revenue : 2350
+Total catagories : 4
+Total revenue : 4990
+Highest revenue catagory : Furniture
+Highest catagory revenue: 2350
