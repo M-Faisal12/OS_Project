@@ -206,27 +206,6 @@ CSV + TXT Output
 
 ---
 
-# 👨‍💻 Team Contributions
-
-## Member 1
-
-* Shell scripting and runtime configuration
-* CLI flag implementation
-* Cleanup and validation
-
-## Member 2
-
-* Dispatcher and IPC setup
-* Process management
-* Synchronization handling
-
-## Member 3
-
-* Ingester and processor implementation
-* Worker thread pool and aggregation
-* Reporter module and documentation
-
----
 
 # 🌟 Operating System Concepts Demonstrated
 
